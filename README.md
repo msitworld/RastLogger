@@ -1,2 +1,2 @@
 # RastLogger
-A python service to log event along with RabbitMQ message broker
+A python service to log events along with RabbitMQ message broker
